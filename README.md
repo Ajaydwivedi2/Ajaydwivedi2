@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1683459518~exp=1683460118~hmac=dbefbf1b853ec5608662bce97986559c476445b80d53c53dbbf24ac0563b6261)]
+[![MasterHead](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1683459518~exp=1683460118~hmac=dbefbf1b853ec5608662bce97986559c476445b80d53c53dbbf24ac0563b6261)](https://github.com/Ajaydwivedi2)
 <h1 align="center">Hi 👋, I'm Ajay Dwivedi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670664007515/7nRHqrTst.gif" alt="">
