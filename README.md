@@ -1,4 +1,4 @@
-[![MasterHead]([https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1683459518~exp=1683460118~hmac=dbefbf1b853ec5608662bce97986559c476445b80d53c53dbbf24ac0563b6261](https://img.freepik.com/free-vector/teenager-drinks-coffee-bedroom-with-workspace-hacker-night_107791-5413.jpg?w=1380&t=st=1683460888~exp=1683461488~hmac=0a12be6df83aed983c6a8ffbbc100038b3633e77e35288b9afddce8f419fc8ef))](https://github.com/Ajaydwivedi2)
+[![MasterHead](https://img.freepik.com/free-vector/teenager-drinks-coffee-bedroom-with-workspace-hacker-night_107791-5413.jpg?w=1380&t=st=1683460888~exp=1683461488~hmac=0a12be6df83aed983c6a8ffbbc100038b3633e77e35288b9afddce8f419fc8ef)](https://github.com/Ajaydwivedi2)
 <h1 align="center">Hi 👋, I'm Ajay Dwivedi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670664007515/7nRHqrTst.gif" alt="">
